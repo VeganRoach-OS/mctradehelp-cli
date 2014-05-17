@@ -1,0 +1,15 @@
+Installation Instructions for mctradehelp-cli
+
+Compile.
+
+$ make
+
+Install.
+
+# make install
+
+Clean up.
+
+$ make clean
+
+This will delete the newly generated files.
