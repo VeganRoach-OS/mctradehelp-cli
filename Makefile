@@ -1,4 +1,4 @@
-EXEC=libmctradehelp.so
+EXEC=mctradehelp
 PREFIX=/usr/local
 
 VCFLAGS=--pkg mctradehelp
